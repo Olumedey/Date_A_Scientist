@@ -1,0 +1,33 @@
+﻿Feature_Data,Map_No,Target_Mapping
+graduated from ph.d program,7,Doctorate degree or equivalent
+ph.d program,7,Doctorate degree or equivalent
+graduated from masters program,6,Master's degree or equivalent
+graduated from law school,6,Master's degree or equivalent
+working on ph.d program,6,Master's degree or equivalent
+graduated from med school,6,Master's degree or equivalent
+masters program,6,Master's degree or equivalent
+dropped out of ph.d program,6,Master's degree or equivalent
+law school,6,Master's degree or equivalent
+med school,6,Master's degree or equivalent
+graduated from college/university,5,Bachelor's degree or equivalent
+working on masters program,5,Bachelor's degree or equivalent
+college/university,5,Bachelor's degree or equivalent
+working on law school,5,Bachelor's degree or equivalent
+working on med school,5,Bachelor's degree or equivalent
+dropped out of masters program,5,Bachelor's degree or equivalent
+dropped out of law school,5,Bachelor's degree or equivalent
+dropped out of med school,5,Bachelor's degree or equivalent
+graduated from two-year college,4,Associate degree or equivalent
+two-year college,4,Associate degree or equivalent
+working on college/university,3,Some college
+working on two-year college,3,Some college
+graduated from high school,2,High school diploma or equivalent
+dropped out of college/university,2,High school diploma or equivalent
+dropped out of two-year college,2,High school diploma or equivalent
+high school,2,High school diploma or equivalent
+graduated from space camp,1,Professional Training
+space camp,1,Professional Training
+dropped out of space camp,0,No high school diploma or equivalent
+working on space camp,0,No high school diploma or equivalent
+dropped out of high school,0,No high school diploma or equivalent
+working on high school,0,No high school diploma or equivalent
