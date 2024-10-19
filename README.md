@@ -2,7 +2,7 @@
 Supervised Machine Learning Capstone Project
 # Project Overview
 ----
-The notebook focuses on exploring user profile data, performing data cleaning, and building machine learning models to predict user characteristics like their behavior or preferences based on their demographic and textual data.
+The notebook focuses on exploring OKCupid user profile data, performing data cleaning, and building machine learning models to predict user characteristics like their behavior or preferences based on their demographic and textual data. The project's primary objective was to apply machine learning techniques to predict a user's astrological sign using their preferences for social vices (such as drinking, drugs, etc.,). After exploring the base use case, we also looked to predict users' sex using classification, regression, and ensemble machine learning techniques. 
 
 - - - -
 # Main Steps in the Project:
